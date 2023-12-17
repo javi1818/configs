@@ -144,6 +144,11 @@ _G.packer_plugins = {
     path = "/Users/javierportillo/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
+  ["reach.nvim"] = {
+    loaded = true,
+    path = "/Users/javierportillo/.local/share/nvim/site/pack/packer/start/reach.nvim",
+    url = "https://github.com/toppair/reach.nvim"
+  },
   ["rose-pine"] = {
     loaded = true,
     path = "/Users/javierportillo/.local/share/nvim/site/pack/packer/start/rose-pine",

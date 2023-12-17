@@ -10,4 +10,4 @@ vim.wo.cursorline = true
 vim.bo.tabstop = 4
 vim.bo.shiftwidth = 4
 vim.bo.expandtab = true
-vim.wo.relativenumber = 1
+-- vim.wo.relativenumber = 1
